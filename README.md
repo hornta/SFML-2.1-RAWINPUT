@@ -1,3 +1,5 @@
+This have been implemented in SFML since https://github.com/SFML/SFML/pull/3057.
+
 SFML-2.1-RAWINPUT
 =================
 
